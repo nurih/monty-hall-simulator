@@ -4,6 +4,7 @@ Most of my professional career is spent making software. But when I found out th
 
 ![completed project](./gameshow-3doors.jpg "Simulator Picture")
 
+_The picture shows the game after final round. Two doors are open, one by the host (computer), and one by the player. This outcome shows 2 green planks, meaning 'Broccoli' : the player did *not* win the bacon!_
 
 The NodeBot session handed us a bag of parts, some easy starting point tutorials and ample tools and materials. Among the parts was a [Photon](https://store.particle.io/collections/photon) board, and a hello-world JavaScript file that used [johnny-five](https://www.npmjs.com/package/johnny-five) robotic framework, and [particle-io](https://www.npmjs.com/package/particle-io) libraries.
 
