@@ -1,0 +1,9 @@
+{
+    "name": "monty-hall",
+    "version": "0.1.0",
+    "dependencies": {
+        "johnny-five": "*",
+        "particle-io": "*",
+        "particle-cli": "*"
+    }
+}
