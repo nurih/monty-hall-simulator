@@ -2,6 +2,9 @@
 
 Most of my professional career is spent making software. But when I found out that there was a full working maker space at the CodeMash16 conference, I decided to build something. Because, you know, software is great, but Making Is Fun™!
 
+![completed project](./gameshow-3doors.jpg "Simulator Picture")
+
+
 The NodeBot session handed us a bag of parts, some easy starting point tutorials and ample tools and materials. Among the parts was a [Photon](https://store.particle.io/collections/photon) board, and a hello-world JavaScript file that used [johnny-five](https://www.npmjs.com/package/johnny-five) robotic framework, and [particle-io](https://www.npmjs.com/package/particle-io) libraries.
 
 Rather than building a push bot, I decided to go "off-script" and build a Monty Hall simulator. The specs for the simulator were pretty straightforward and I figured I could knock it out in a few hours.
